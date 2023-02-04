@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#container{
+display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+.btn{
+    border: none;
+    font-size: 30px;
+    padding: 20px;
+    background-color: white;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
